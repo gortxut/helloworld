@@ -1,2 +1,2 @@
-# hellowrold
+# helloworld
 Kaixo Mundua bistaratzeko programa
